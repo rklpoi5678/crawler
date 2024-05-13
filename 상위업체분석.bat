@@ -1,0 +1,1 @@
+start "" /min "C:\Users\h\AppData\Local\Programs\UiPath\Studio\UiRobot.exe" -file "C:\Users\h\Desktop\procduct_seller\naverShopDetail.1.0.1.nupkg"
